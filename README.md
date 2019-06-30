@@ -1,8 +1,7 @@
 # README
 
 ## 概要
-PFNインターン2019のコーディング課題についてのREADMEです。
-私は`Machine Learning`を選択しました。
+某インターンのコーディング課題を解きました。
 
 ## 環境・モジュール
 pythonを用いて実装を行いました。  
@@ -16,7 +15,7 @@ pythonを用いて実装を行いました。
 2. `README.md`
 3. `prediction.txt`
 4. `report.pdf`
-5. `results`
+5. `results`  
 なお、`results`には学習済みのlossや重みの値が入っています。
 
 ## 実行方法
