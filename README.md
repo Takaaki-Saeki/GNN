@@ -1,7 +1,5 @@
 # README
 
-![gnn](https://github.com/Takaaki-Saeki/GNN/files/3358312/2019-07-04.17.06.41.pdf)
-
 ## 概要
 某のコーディング課題を解きました。
 
